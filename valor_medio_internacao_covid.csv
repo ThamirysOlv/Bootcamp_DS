@@ -1,0 +1,22 @@
+ Procedimentos hospitalares do SUS - por local de internação - Brasil
+Valor médio intern por Região e Ano/mês processamento
+Procedimento: 0303010223 TRATAMENTO DE INFECÇÃO PELO CORONAVIRUS – COVID 19
+Período:Jan/2008-Ago/2021
+"Região";"2020/Abr";"2020/Mai";"2020/Jun";"2020/Jul";"2020/Ago";"2020/Set";"2020/Out";"2020/Nov";"2020/Dez";"2021/Jan";"2021/Fev";"2021/Mar";"2021/Abr";"2021/Mai";"2021/Jun";"2021/Jul";"2021/Ago";"Total"
+"1 Região Norte";2182,87;2835,66;3172,94;3506,99;3273,70;3099,29;2836,46;3583,96;3438,89;2933,19;2811,28;2531,24;2892,16;3596,09;3965,27;4331,45;5289,19;3300,38
+"2 Região Nordeste";3640,40;3212,35;3761,50;4543,18;5008,66;4695,57;4629,91;4741,84;5002,56;5156,59;4797,93;4432,83;5063,09;5265,90;5894,45;7620,12;8867,06;5302,70
+"3 Região Sudeste";2277,42;3578,96;4421,19;5089,18;5479,31;6104,82;6006,00;5286,15;4885,07;5026,52;5316,31;4974,42;5585,11;6098,91;6487,90;7637,87;8902,41;5842,66
+"4 Região Sul";2854,32;4147,21;5375,77;5643,51;5898,22;6844,54;7282,30;6481,75;5822,92;6310,55;6070,87;5032,60;5850,09;6280,29;6300,82;8003,67;9135,51;6411,41
+"5 Região Centro-Oeste";2238,22;3271,35;3563,97;3986,49;4083,58;4215,59;4544,77;5469,47;4988,04;4784,92;4239,24;4276,88;4956,57;5293,36;5649,10;6472,70;7813,80;5171,39
+"Total";2637,46;3374,28;3999,14;4748,51;5045,79;5413,97;5505,25;5265,13;5024,17;5067,69;4959,63;4562,62;5216,86;5633,53;6069,42;7375,90;8589,51;5524,00
+ Fonte: Ministério da Saúde - Sistema de Informações Hospitalares do SUS (SIH/SUS)
+ Notas:
+ 
+ Dados referentes aos últimos seis meses, sujeitos a  atualização.
+ A partir do processamento de junho de 2012, houve mudança na classificação da natureza e esfera dos estabelecimentos. Com isso, temos que:
+      
+      Até maio de 2012 estas informações estão disponíveis como "Natureza" e "Esfera Administrativa".
+      De junho de 2012 a outubro de 2015, estão disponíveis tanto como "Natureza" e "Esfera Administrativa", como "Natureza Jurídica" e "Esfera Jurídica".
+      A partir de novembro de 2015, estão disponíveis como "Natureza Jurídica" e "Esfera Jurídica".
+      
+ 

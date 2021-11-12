@@ -1,0 +1,22 @@
+ Procedimentos hospitalares do SUS - por local de internação - Brasil
+Internações por Região e Ano/mês processamento
+Procedimento: 0303010223 TRATAMENTO DE INFECÇÃO PELO CORONAVIRUS – COVID 19
+Período:Jan/2008-Ago/2021
+"Região";"2020/Abr";"2020/Mai";"2020/Jun";"2020/Jul";"2020/Ago";"2020/Set";"2020/Out";"2020/Nov";"2020/Dez";"2021/Jan";"2021/Fev";"2021/Mar";"2021/Abr";"2021/Mai";"2021/Jun";"2021/Jul";"2021/Ago";"Total"
+"1 Região Norte";386;4932;9885;7861;7484;5139;3706;3583;3974;6843;9384;13768;14545;13935;9790;7753;4400;127368
+"2 Região Nordeste";985;10340;19835;22820;21024;15064;11065;11405;11916;14064;15987;30540;40798;46602;46018;30491;15203;364157
+"3 Região Sudeste";2380;15736;23643;35772;30324;24758;21240;19279;25505;32768;32802;55045;69440;68603;66265;51610;31891;607061
+"4 Região Sul";321;1512;2900;7341;10344;9843;8747;8743;12861;13157;14268;27530;29669;28100;30373;23500;16156;245365
+"5 Região Centro-Oeste";63;570;2505;5658;8232;7066;6875;4647;4646;5824;6677;12859;16412;13451;14530;13414;10955;134384
+"Total";4135;33090;58768;79452;77408;61870;51633;47657;58902;72656;79118;139742;170864;170691;166976;126768;78605;1478335
+ Fonte: Ministério da Saúde - Sistema de Informações Hospitalares do SUS (SIH/SUS)
+ Notas:
+ 
+ Dados referentes aos últimos seis meses, sujeitos a  atualização.
+ A partir do processamento de junho de 2012, houve mudança na classificação da natureza e esfera dos estabelecimentos. Com isso, temos que:
+      
+      Até maio de 2012 estas informações estão disponíveis como "Natureza" e "Esfera Administrativa".
+      De junho de 2012 a outubro de 2015, estão disponíveis tanto como "Natureza" e "Esfera Administrativa", como "Natureza Jurídica" e "Esfera Jurídica".
+      A partir de novembro de 2015, estão disponíveis como "Natureza Jurídica" e "Esfera Jurídica".
+      
+ 
