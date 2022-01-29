@@ -12,11 +12,11 @@ O projeto está dividido da seguinte maneira:
 - Primeiramente analisaremos a base de dados sem o uso de machine learning para tentar detectar algum padrão entre os pacientes que presisaram de atendimento de UTI;
 - Posteriormente, usando algoritmos de machine learning, selecionaremos o modelo com melhor performance através de dois métodos distintos para prever se um paciente precisará ou não de atendimento em UTI.
 
-# Arquivos:
+# Arquivos
 
 1. Base de dados: Kaggle_Sirio_Libanes_ICU_Prediction.xlsx, a base de dados também pode ser acessada por: https://www.kaggle.com/S%C3%ADrio-Libanes/covid19
 2. Jupyter notebok: Desafio_Modulo_5.ipynb, o notebook também pode ser acessado pelo Google Colab: https://colab.research.google.com/drive/117c98KxPY5BRyY5jrpZEwLbnsEKK-KtD?usp=sharing
 
-# Conclusão:
+# Conclusão
 
 Neste projeto analisamos a base de dados do hospital Sírio-Libanês com o objetivo de prever se um paciente internado por COVID-19 precisará ou não de atendimento em UTI. Na primeira análise, sem o uso de modelos de machine learning, observamos que a faixa de idade do paciente podería ser um fator importante, e que o sexo masculino é mais internado do que o sexo feminino. Entretanto, resaltamos que a diferença no número de internação entre homens e mulheres pode ser por motivo socioeconomico, por exemplo. Na segunda análise, usando modelos de machine learning, o algoritmo random forest foi o que obteve maior taxa de acurácia média por dois métodos de análise diferentes, cerca de 76% com intervalo de 65.8% a 86.5%, valor maior que o baseline de 53.8%. Além disso, o modelo apresentou uma taxa de falso negativo de cerca de 30%, um valor menor quando comparado com o Dummy classifier, que apresentou uma taxa de falso negativo de 100%.
