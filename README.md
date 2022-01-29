@@ -11,7 +11,7 @@ O projeto está dividido da seguinte maneira:
 # Arquivos:
 
 1. Base de dados: Kaggle_Sirio_Libanes_ICU_Prediction.xlsx, a base de dados também pode ser acessada por: https://www.kaggle.com/S%C3%ADrio-Libanes/covid19
-2. Jupyter notebok: Desafio_Modulo_5.ipynb, o notebook também pode ser acessado pelo Google Colab: https://drive.google.com/file/d/1v8295QT9yZB2O_M42Of3sYM9ceUI9nmg/view?usp=sharing
+2. Jupyter notebok: Desafio_Modulo_5.ipynb, o notebook também pode ser acessado pelo Google Colab: https://colab.research.google.com/drive/117c98KxPY5BRyY5jrpZEwLbnsEKK-KtD?usp=sharing
 
 # Conclusão:
 
