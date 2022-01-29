@@ -1,3 +1,9 @@
+# Previsão de necessidade de tratamento em UTI através de modelos de machine learning
+
+Thamirys de Oliveira
+
+thamirysolv01@gmail.com
+
 # Introdução
 
 A COVID-19, doença causada pelo vírus SARS-COV-2, afeta todo o planeta desde o ano de 2019. Altas taxas de transmissão do vírus podem causar o colapso do sistema de saúde através, entre outro modos, da falta de leitos de UTI disponíveis para a população, o que pode gerar filas [[1]](https://g1.globo.com/bemestar/coronavirus/noticia/2021/03/20/mortes-na-fila-por-um-leito-de-uti-falta-de-insumos-e-funerarias-sem-ferias-os-sinais-do-colapso-na-saude-brasileira.ghtml). Prever se um paciente que der entrada no hospital precisará de atendimento em UTI ou não pode ser uma das formas de diminuir as chances de fila para leitos, pois assim, por exemplo, o hospital tem mais tempo para abrir novos leitos ou agendar a transferência do paciente para outro hospital com leitos disponíveis.
